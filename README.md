@@ -35,6 +35,7 @@ The website, accessible from [https://madbarua.github.io](https://madbarua.githu
 This can be be manually done by pushing static build files directly into the `master` branch, or automatically by pushing vue project updates into the `dev` branch. Please follow the instructions below for automatic CI/CD using [Travis](https://travis-ci.com/).
 
 
+
 ### Automactic CI/CD Using Travis
 
 1. Create a branch from `dev`. <br>
@@ -46,6 +47,7 @@ This can be be manually done by pushing static build files directly into the `ma
 
 4. View the travis CI status from [https://travis-ci.com/madbarua/madbarua.github.io](https://travis-ci.com/madbarua/madbarua.github.io). (*private account*) <br>
 New GitHub pages website updates can be viewed from [https://madbarua.github.io](https://madbarua.github.io) if the build passed.
+
 
 
 @madbarua<br>
