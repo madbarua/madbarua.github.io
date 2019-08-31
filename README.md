@@ -30,13 +30,15 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Travis CI/CD
 
-The website, accessible from [https://madbarua.github.io](https://madbarua.github.io) uses static build files pushed into the `master` branch.
+The website, accessible from [https://madbarua.github.io](https://madbarua.github.io) serves static build files pushed into the `master` branch.
 
-This can be be manually done by pushing static build files directly into the `master` branch, or automatically by pushing vue project updates into the `dev` branch. Please follow the instructions below for automatic CI/CD using [Travis](https://travis-ci.com/).
+This can be be manually done by pushing static build files directly into the `master` branch, or automatically by pushing vue project code updates into the `dev` branch. Please follow the instructions below to trigger the automatic [Travis](https://travis-ci.com/) CI/CD.
+
+Read on this [reference](https://trello.com/c/0A36NOdS) for more information on setting up Travis CI for GitHub pages.
 
 
 
-### Automactic CI/CD Using Travis
+### Automatic CI/CD Using Travis
 
 1. Create a branch from `dev`. <br>
 `git checkout -b my-test-branch`
