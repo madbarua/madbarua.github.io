@@ -44,7 +44,7 @@ This can be be manually done by pushing static build files directly into the `ma
 3. Approve the pull request.
 
 4. View the travis CI status from [https://travis-ci.com/madbarua/madbarua.github.io](https://travis-ci.com/madbarua/madbarua.github.io). (*private account*) <br>
-New website updates can be viewed from [https://madbarua.github.io](https://madbarua.github.io) if the build passed.
+New GitHub pages website updates can be viewed from [https://madbarua.github.io](https://madbarua.github.io) if the build passed.
 
 
 @madbarua<br>
