@@ -32,7 +32,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 The website, accessible from [https://madbarua.github.io](https://madbarua.github.io) serves static build files pushed into the `master` branch.
 
-This can be be manually done by pushing static build files directly into the `master` branch, or automatically by pushing vue project code updates into the `dev` branch. Please follow the instructions below to trigger the automatic [Travis](https://travis-ci.com/) CI/CD.
+This can be manually done by pushing static build files directly into the `master` branch, or automatically by pushing vue project code updates into the `dev` branch. Please follow the instructions below to trigger the automatic [Travis](https://travis-ci.com/) CI/CD.
 
 Read on this [reference](https://trello.com/c/0A36NOdS) for more information on setting up Travis CI for GitHub pages.
 
@@ -47,7 +47,7 @@ Read on this [reference](https://trello.com/c/0A36NOdS) for more information on 
 
 3. Approve the pull request.
 
-4. View the travis CI status from [https://travis-ci.com/madbarua/madbarua.github.io](https://travis-ci.com/madbarua/madbarua.github.io). (*private account*) <br>
+4. View the travis CI status from [https://travis-ci.com/madbarua/madbarua.github.io](https://travis-ci.com/madbarua/madbarua.github.io). <br>
 New GitHub pages website updates can be viewed from [https://madbarua.github.io](https://madbarua.github.io) if the build passed.
 
 
